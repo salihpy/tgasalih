@@ -1,14 +1,9 @@
-# HTML5, CSS3, PYTHON, VB.NET, C++<h1> 
-## 🤭 About Me <h2> 
-__Hi, I'm a professional web designer and game cheat manufacturer__
-  
-  
-## 📇 Contact Me <h2> 
-  
-  __You can contact me via Instagram and Discord__
-  <br> <br>
-  [İNSTAGRAM](http://instagram.com/tgasalih)
+<h1>HTML5, CSS3, PYTHON, VB.NET, C++</h1>
 
+<b>Hi, I'm a professional web designer and game cheat manufacturer</b>
+
+<h1>Contact Me</h1>
+<b>You can contact me via Instagram and Discord</b>
 
 
 
