@@ -1,14 +1,14 @@
-<style type="text/css">
-	h1{
-		color: red;
-	}
-</style>
-<h1>HTML5, CSS3, PYTHON, VB.NET, C++</h1>
+
+<h1">HTML5, CSS3, PYTHON, VB.NET, C++</h1>
 
 <b>Hi, I'm a professional web designer and game cheat manufacturer</b>
 
 <h1>Contact Me</h1>
 <b>You can contact me via Instagram and Discord</b>
+<i>
+	<a href="https://instagram.com/tga.salih">İnstagram</a>
+	<a href="mailto:tgasalih+githubcontact@gmail.com">E-Posta</a>
+</i>
 
 
 
