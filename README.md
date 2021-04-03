@@ -1,3 +1,8 @@
+<style type="text/css">
+	h1{
+		color: red;
+	}
+</style>
 <h1>HTML5, CSS3, PYTHON, VB.NET, C++</h1>
 
 <b>Hi, I'm a professional web designer and game cheat manufacturer</b>
