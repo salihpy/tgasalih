@@ -6,7 +6,8 @@ __Hi, I'm a professional web designer and game cheat manufacturer__
 ## 📇 Contact Me <h2> 
   
   __You can contact me via Instagram and Discord__
-  __İNSTAGRAM:__ [GitHub](http://instagram.com/tgasalih)
+  <br>
+  [İNSTAGRAM](http://instagram.com/tgasalih)
 
 
 
