@@ -12,7 +12,6 @@
 	<li>	<a href="mailto:tgasalih+githubcontact@gmail.com">E-Posta</a></li>
 </ul>
   
-<button type="button" class="btn btn-outline-secondary">Secondary</button>
 
 
 <!---
