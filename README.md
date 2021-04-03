@@ -12,7 +12,7 @@
 	<li>	<a href="mailto:tgasalih+githubcontact@gmail.com">E-Posta</a></li>
 </ul>
   
-  <img width="300" src="https://avatars.githubusercontent.com/u/81695102?v=4">
+<button type="button" class="btn btn-outline-secondary">Secondary</button>
 
 
 <!---
