@@ -1,7 +1,7 @@
 <h1>Hello, I'm <a href="https://tgasalih.xyz">Salih</a></h1>
 <b>Hi, I'm a professional web designer and game cheat manufacturer</b>
 
-<h2>My Social Media Accounts</h2>
+<h1>My Social Media Accounts</h1>
 
 <a href="https://instagram.com/tga.salih" target="blank"><img width="70" src="https://cdn2.iconfinder.com/data/icons/social-network-logo-collection-2/512/31-128.png" alt="instagram"></a>
 &nbsp;
@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h1>Languages and Tools:</h1>
 
 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> 
