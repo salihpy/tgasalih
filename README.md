@@ -12,9 +12,8 @@
 	<li>	<a href="mailto:tgasalih@gmail.com">E-Posta</a></li>
 </ul>
   
-  <a href="https://instagram.com/tgasalih"> <img width="50" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1617463052~hmac=62d056c95f64cb23d4b837260101f54f">  </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tgasalih)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://hsalih.ml"> <img width="50" src="https://www.flaticon.com/premium-icon/icons/svg/3423/3423485.svg"> </a>
 
 
 <!---
