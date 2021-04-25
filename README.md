@@ -3,7 +3,7 @@
 
 <h2>My Social Media Accounts</h2>
 
-<a href="https://instagram.com/tga.salih" target="blank"><img width="60" src="https://cdn2.iconfinder.com/data/icons/social-network-logo-collection-2/512/31-128.png" alt="instagram"></a>
+<a href="https://instagram.com/tga.salih" target="blank"><img width="70" src="https://cdn2.iconfinder.com/data/icons/social-network-logo-collection-2/512/31-128.png" alt="instagram"></a>
 &nbsp;
 <a href="https://twitter.com/tgasalih" target="blank"><img width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Twitter-Outline-128.png" alt="twitter"></a>
 &nbsp;
