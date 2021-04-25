@@ -33,5 +33,6 @@
 
 
 
-
+<h1>Status</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tgasalih&label=Profile%20Views&color=d400ff&style=flat" alt="Utku1114" /> </p>
 
