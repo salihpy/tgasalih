@@ -10,7 +10,8 @@
 <a href="https://pinterest.com/tgasalih/" target="blank"><img width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Pinterest-Outline-128.png" alt="pinterest"></a>
 &nbsp;
 <a href="https://discord.gg/KqmKXD42Xt" target="blank"><img width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Discord-Outline-128.png" alt="discord"></a>
-
+&nbsp;
+<a href="https://tgasalih.xyz" target="blank"><img width="50" src="https://cdn1.iconfinder.com/data/icons/social-media-outline-6/128/SocialMedia_Website-Outline-128.png" alt="discord"></a>
 
 
 
